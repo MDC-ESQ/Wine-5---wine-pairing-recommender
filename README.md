@@ -19,3 +19,12 @@ To build wine-pairing recommender, it was used data from three different sources
 
 
  ![Process](https://user-images.githubusercontent.com/110760816/201392218-5cde9fe6-32dc-4d04-983a-3188205825e7.jpg)
+
+
+## Wine@5
+### Wine-pairing recommender
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MDC-ESQ/Wine-5---wine-pairing-recommender/HEAD?urlpath=%2Fvoila%2Frender%2FWine%405.ipynb)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/MDC-ESQ/Wine-5---wine-pairing-recommender/HEAD?urlpath=%2Fvoila%2Frender%2FWine%405.ipynb
